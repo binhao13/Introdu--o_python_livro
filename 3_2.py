@@ -4,14 +4,14 @@ c = 5.0
 d = 1
 f = 5
 
-print(a == c)
-print(a < b)
-print(d > b)
-print(c != f)
-print(a == b)
-print(c < d)
-print(b > a)
-print(c >= f)
-print(f >= c)
-print(c <= c)
-print(c <= f)
+print(a == c) #False
+print(a < b) #True
+print(d > b) #False
+print(c != f) #False
+print(a == b) #False
+print(c < d) #False
+print(b > a) #True
+print(c >= f) #True
+print(f >= c) #True
+print(c <= c) #True
+print(c <= f) #True
