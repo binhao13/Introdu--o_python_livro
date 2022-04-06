@@ -1,0 +1,1 @@
+materia1 > 7 and materia2 > 7 and materia3 > 7
