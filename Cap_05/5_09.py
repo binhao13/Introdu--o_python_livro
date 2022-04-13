@@ -1,0 +1,9 @@
+x = int(input("Digite um número: "))
+y = int(input("Digite outro número: "))
+n = x
+i = 0
+while n >= y:
+    n -= y
+    i += 1
+print(f"{x}/{y} = {i}\n\
+Resto = {n}")
