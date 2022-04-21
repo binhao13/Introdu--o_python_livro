@@ -1,0 +1,1 @@
+# O programa pára logo após imprimir a quantidade de cédulas de R$50,00
