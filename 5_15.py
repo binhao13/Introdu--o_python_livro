@@ -24,7 +24,7 @@ while True:
     v = p*q
     t = t + v
 print(f"O valor total foi de R${t:.2f}")
-    
+#sd
 
             
         
