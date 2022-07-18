@@ -1,6 +1,3 @@
-from this import d
-
-
 s1 = input("Digite uma string: ")
 q = {}
 x = 0
