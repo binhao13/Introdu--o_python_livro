@@ -1,4 +1,17 @@
-palavra = input("Digite a palavra secreta:").lower().strip()
+palavras = [
+    "casa",
+    "bola",
+    "mangueira",
+    "uva",
+    "quiabo",
+    "computador",
+    "cobra",
+    "lentilha",
+    "arroz",
+]
+
+índice = int(input("Digite um numero:"))
+palavra = palavras[(índice * 776) % len(palavras)]
 for x in range(100):
     print()
 digitadas = []

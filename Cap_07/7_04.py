@@ -8,3 +8,4 @@ for letra in s1:
         q[letra] = 1
 for letra,valor in q.items():
     print(f"{letra}: {valor}x ")
+    
